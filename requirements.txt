@@ -4,4 +4,4 @@
 #
 #    pip-compile --no-index --output-file requirements.txt requirements.in
 #
-bottle==0.12.13
+bottle==0.12.19
